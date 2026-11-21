@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Amit Kumar 👋<br><br>I'm a **Full-Stack Developer and final-year ECE undergraduate at NIT Jamshedpur (2023–2027)**, passionate about building scalable applications and solving real-world problems through technology.<br><br>I work with **C++, JavaScript, React, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, and Redis**, with a growing interest in backend engineering and AI-powered applications.<br><br>- 💻 Built projects like **ScrapChef (AI + RAG)** and **MailMind AI**.<br>- 🏆 Solved **600+ DSA problems** | **5-Star HackerRank**.<br>- 🌱 Exploring System Design, Backend Engineering, and AI.<br><br>**Always learning, building, and improving!** 🚀
+## Hi, I'm Amit Kumar 👋<br><br>I'm a **Full-Stack Developer and final-year ECE undergraduate at NIT Jamshedpur (2023–2027)**, passionate about building scalable, AI-powered applications and solving real-world problems.<br>
 
 
 ## 🌐 Socials:
